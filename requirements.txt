@@ -1,0 +1,8 @@
+#
+####### requirements.txt #######
+#
+
+opencv-python >= 4.1.2.30
+pynput >= 1.6.0
+slacker >= 0.13.0
+Crypto >= 1.4.1
